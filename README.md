@@ -9,4 +9,4 @@
 
 
 ## 參考資料
-Python 網路爬蟲與資料分析入門實戰
+[Python 網路爬蟲與資料分析入門實戰](https://www.books.com.tw/products/0010800867)
