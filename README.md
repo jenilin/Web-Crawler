@@ -7,7 +7,7 @@
 ## 練習1：PTT八卦版熱門文章爬蟲 (ptt_gossping)
 以日期和推文數量作為篩選依據，爬取八卦版熱門文章。
 
-## 練習2：爬蟲＋LINE Notify 自動訊息通知 (
+## 練習2：爬蟲＋LINE Notify 自動訊息通知 (avis_car)
 爬取[AVIS限時租車優惠](https://www.avis-taiwan.com/limited-offer.php)，若爬到優惠則以Line訊息通知。<br>
 待改進：程式要一直啟著，目前是用while+time.sleep讓程式定期執行
 
