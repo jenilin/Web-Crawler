@@ -13,5 +13,7 @@
 
 
 ## 參考資料
-[Python 網路爬蟲與資料分析入門實戰](https://www.books.com.tw/products/0010800867)<br>
-[[Python爬蟲教學]Python網頁爬蟲結合LINE Notify打造自動化訊息通知服務](https://www.notion.so/a75a95465dc943939511faca4c0f8508?v=fac9558dfdd64b16a2b5381c5088cedc)
+* 書籍 <br>
+[Python 網路爬蟲與資料分析入門實戰](https://www.books.com.tw/products/0010800867) <br><br>
+* 網頁 <br>
+[Python網頁爬蟲結合LINE Notify打造自動化訊息通知服務](https://www.notion.so/a75a95465dc943939511faca4c0f8508?v=fac9558dfdd64b16a2b5381c5088cedc)
